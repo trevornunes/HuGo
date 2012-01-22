@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+
+ <dpad x="0" y="430" width="132" height="132">
+ <label x="0" y="0" width="132" height="132" image="dpad_pce.png"/>
+ </dpad>
+ 
+ 
+<key x="450" y="460" width="60" height="60" sym="9" scancode="9">
+<label x="0" y="0" width="60" height="60" image="select.png"/>
+</key>
+
+<key x="510" y="460" width="60" height="60" sym="13" scancode="13">
+<label x="0" y="0" width="60" height="60" image="start.png"/>
+</key>
+
+<key x="840" y="460" width="80" height="80" sym="32" scancode="32">
+<label x="0" y="0" width="80" height="80" image="B.png"/>
+</key>
+
+<key x="920" y="460" width="80" height="80" sym="308" scancode="308">
+<label x="0" y="0" width="80" height="80" image="A.png"/>
+</key>
+
+<key x="0" y="0" width="50" height="50" sym="48" scancode="48"/>
+
+<key x="940" y="0" width="50" height="50" sym="292" scancode="292"/>
+
+</emulation>

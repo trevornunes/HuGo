@@ -1,0 +1,3 @@
+cd.o: cd.c cd.h
+
+cd.h:

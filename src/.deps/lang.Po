@@ -1,0 +1,5 @@
+lang.o: lang.c lang.h config.h
+
+lang.h:
+
+config.h:
